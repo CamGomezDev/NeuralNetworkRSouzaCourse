@@ -1,0 +1,12 @@
+# how to clone git from web to local folder
+# https://www.shanebart.com/clone-repo-using-token/
+# https://github.com/settings/tokens
+
+git clone https://github.com/michalhem/myrepository
+Username: <your_username>
+Password: <your_personal_access_token>
+
+then can get updated...
+
+
+git add * && git commit -a -m "commit" && git push https://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@github.com/michalhem/myrepository.git
