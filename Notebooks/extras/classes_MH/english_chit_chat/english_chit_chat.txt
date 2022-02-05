@@ -4,7 +4,8 @@
 	- all good, and yourself?						- todo bien, y tu?
 	- Im wrecked, lot of work						- estoy muerto de cansancio
 	- Fine, fine, and you?							- bien, bien, y tu?
-
+	- so far so good							- hasta ahora bien
+	
 - How was your day?								
 	- actually quite busy							- realmente bien ocupado
 	- quite relaxing							- realmente tranquilo (relajante)
