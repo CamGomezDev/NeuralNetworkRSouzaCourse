@@ -1,0 +1,21 @@
+* "id": Numero de identificacion de la vivienda
+* "Date": Fecha en que se vendió la casa
+* "Price": el precio es el objetivo de predicción
+* "Bedrooms": Número de Dormitorios/Casa
+* "Bathrooms": Número de baños/Casa
+* "Sqft_Living": pies cuadrados de la casa
+* "Sqft_Lot": pies cuadrados del lote
+* "Floors": Total de pisos oniveles) en casa
+* "Waterfront": Casa que tiene vista a la costanera
+* "View": Ha sido visto
+* "Condition": Qué tan buena es la condición ogeneral)
+* "Grade": calificación de vivienda, según el sistema del condado de King
+* "Sqft_above": pies cuadrados de la casa aparte del sótano
+* "Sqft_Basement": pies cuadrados del sótano
+* "Yr_Built": año de construcción
+* "Yr_Renovated": año en que se renovó la casa
+* "Zipcode": código postal
+* "Lat": Coordenada de latitud
+* "Long": Coordenada de longitud
+* "Sqft_Living15": Área de la sala de estar en 2015 oimplica algunas renovaciones)
+* "Sqft_Lot15": área del tamaño del lote en 2015 oimplica algunas renovaciones) 
