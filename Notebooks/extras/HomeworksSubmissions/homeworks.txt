@@ -18,7 +18,7 @@ NUMBER     ,  E1,E2,E3,E4,E5,E6,E7,
 1147950753 ,    ,  ,  ,  ,  ,  ,  ,
 1152216176 ,    ,  ,  , A,  ,  ,  ,
 1152223665 ,   A, A, A, A, A, A,  ,
-1216730080 ,   A, A, A,  ,  ,  ,  ,
+1216730080 ,   A, A, A, A, A,  ,  ,
 
 E1 - matrix multiplication
 E2 - data visualization
