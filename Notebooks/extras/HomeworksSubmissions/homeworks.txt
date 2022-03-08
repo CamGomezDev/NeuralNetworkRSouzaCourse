@@ -26,4 +26,4 @@ E3 - gradient descent
 E4 - multiple linear regression
 E5 - mnist digits classification using scikit-learn and logistic regression
 E6 - mnist digits classification using TensorFlow and Neural Network
-E7 - regression problem using TensorFlow and Neural Network
+E7 - regression problem using TensorFlow and Neural Network (plus Exploratory Data Analysis using Pandas)
