@@ -1,1 +1,2 @@
-ESTEFANA URIBE ISAZA: Estudio estadistico de las propiedades de laminas GEM usando redes neuronales convolucionales
+ESTEFANA URIBE ISAZA:		Estudio estadistico de las propiedades de laminas GEM usando redes neuronales convolucionales
+Edwin DAIR ZAPATA: 		Data Extraction from OCR images using Neural Networks and OpenCV
