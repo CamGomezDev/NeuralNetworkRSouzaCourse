@@ -1,4 +1,4 @@
-List of 30 simple questions for the "oral exam". Afer completing the course answers to those questions should be obvious.
+List of 30 simple questions for the "oral exam" (en Espanol). Afer completing the course answers to those questions should be obvious.
 
 The answers can be very short. For example:
 Example 1: In what problems and why Convolutional Neural Network is better that Neural Network without Convolution
