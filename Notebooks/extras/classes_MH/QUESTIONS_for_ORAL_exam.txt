@@ -4,8 +4,8 @@ The answers can be very short. For example:
 Example 1: In what problems and why Convolutional Neural Network is better that Neural Network without Convolution
 Answer  1: For example in image classification problem, because CNN allows to extract most relevant features from an image. DONE!
 
-Example 1: how does sigmoid function converts values into probabilities
-Answer  1: this is clear from the Logistic Equation...
+Example 2: how does sigmoid function converts values into probabilities
+Answer  2: this is clear from the Logistic Equation...
 
 
 Questions:
