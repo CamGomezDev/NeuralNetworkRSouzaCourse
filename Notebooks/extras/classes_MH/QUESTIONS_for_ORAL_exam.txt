@@ -1,0 +1,53 @@
+List of 30 simple questions for the "oral exam". Afer completing the course answers to those questions should be obvious.
+
+The answers can be very short. For example:
+Example 1: In what problems and why Convolutional Neural Network is better that Neural Network without Convolution
+Answer  1: For example in image classification problem, because CNN allows to extract most relevant features from an image. DONE!
+
+Example 1: how does sigmoid function converts values into probabilities
+Answer  1: this is clear from the Logistic Equation...
+
+
+Questions:
+
+  Various
+01. give three examples of regression problem and three examples of classification problem?
+02. how Exploratory Data Analysis can help in the Machine Learning problem (what is the purpose of it), give examples of most important steps
+03. why is it imporant to scale (normalize) the data?
+04. what does hypothesis mean?
+05. does MSE loss function has a minimum?
+06. how does Gradient Descent work?
+
+  ANN/CNN
+07. how does Neural Network work (one sentence explanation, similarity to polynomial fitting)?
+08. what does it mean Convolutional Neural Network?
+09. In what kid of problems and why Convolutional Neural Network is better that Neural Network without Convolution?
+10. Is kernel in CNN changing its values during the learning and why (epochs)?
+11. what is the sequence of the layers in the Convolutional Neural Network?
+12. what is the purpose of flatten layer in NN?
+13. what is the purpose of Early Stopping Callback?
+14. what is the purpose of using data augmentation?
+15. why is it good to save model or model architecture during training?
+  
+  Activation function:
+16. what is the role of activation function?
+17. what is the difference between linear activaction function and sigmoid activation function?
+18. if you have a neural network that converts celsius degrees into a fahrenheit degrees what will happen if in the last layer the activation is `relu`?
+19. how does sigmoid function converts values into probabilities?
+20. what is the default activation function in tensorflow?
+21. which is the most common activation function in the hidden dense layer?
+
+  Overfitting / Underfitting (class 11 /12)
+22. what does it mean overfitting, how to detect and solve the problem?
+23. what does it mean underfitting, how to detect and solve the problem?
+24. what can be the reason of the oscillations of the loss function during training of NN (alpha?)
+25. what is the difference between Regularization Ridge and Lasso (when use one or another)?
+26. what is the purpose of dropout layer?
+
+  Autoencoders:
+27. what is the structure autoencoders?
+28. give three examples of application of Autoencoders?
+
+  Recurrent Neural Network (class 24/25)
+29. give three examples of application of Recurrent Neural Networks?
+30. how is the X_train and y_train data divided in RNN?
